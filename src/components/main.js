@@ -20,7 +20,7 @@ function main() {
             target="_blank"
             rel="noreferrer"
           >
-            JJ Linkedin
+            Linkedin
           </a>
         </div>
       </div>
