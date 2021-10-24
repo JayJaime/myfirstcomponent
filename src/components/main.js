@@ -14,7 +14,7 @@ function main() {
             <h1>Honeycomb Moray</h1>
             <h2>8</h2>
           </div>
-          <h5>Denver Zoo</h5>
+          <h5>Albuquerque BioPark</h5>
           <a
             href="https://www.linkedin.com/in/joshuajosue/"
             target="_blank"
